@@ -1,0 +1,33 @@
+{
+    "name": "ciareis/pdf-merge",
+    "description": "PDF Merge",
+    "keywords": [
+        "pdf",
+        "union",
+        "merge"
+    ],
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Leandro Henrique",
+            "email": "emtudo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "8.2.* | 8.3.*",
+        "karriere/pdf-merge": "^3.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Ciareis\\PdfMerge\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\" : "tests/"
+        }
+    }
+}
