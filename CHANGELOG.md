@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/ciareis/pdf-merge/compare/v0.0.3...main)
+## [Unreleased](https://github.com/ciareis/pdf-merge/compare/v0.0.4...main)
+
+## [v0.0.4](https://github.com/ciareis/pdf-merge/archive/refs/tags/0.0.4.zip)
+
+- Fix link align
 
 ## [v0.0.3](https://github.com/ciareis/pdf-merge/archive/refs/tags/0.0.3.zip)
 
