@@ -1,6 +1,6 @@
 # Release Notes
 
-## [Unreleased](https://github.com/ciareis/phpmerge/compare/v1.0.1...main)
+## [Unreleased](https://github.com/ciareis/phpmerge/compare/v0.0.3...main)
 
 ## [v0.0.3](https://github.com/ciareis/phpmerge/archive/refs/tags/0.0.3.zip)
 
