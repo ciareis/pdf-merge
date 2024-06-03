@@ -38,7 +38,7 @@ class PdfMerge extends TCPDI
             if ($footer->link) {
                 $this->SetTextColor(0, 0, 255);
                 $this->SetAutoPageBreak(true, 15);
-                $this->Write($footer->height, $footer->getFooter($this), $footer->link, 0, 'L', true, 0, false, true, 0);
+                $this->Write($footer->height, $footer->getFooter($this), $footer->link, 0, $footer->align, true, 0, false, true, 0);
 
                 continue;
             }
